@@ -1,4 +1,4 @@
 c-utils
 =======
 
-Just a place to store and build on reusable utilities
+Reusable (mostly) ANSI C utilities that are generic enough to be useful.  Also a place to put them
